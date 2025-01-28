@@ -1,5 +1,3 @@
-## Version 7
-[Proposal](docs/Giorgi_scope_description_v7.pdf)
 ## Version 6
 [Proposal](docs/Giorgi_scope_description_v6.pdf)
 ## Version 5
